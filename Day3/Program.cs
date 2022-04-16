@@ -10,7 +10,10 @@ namespace Day3
     {
         static void Main(string[] args)
         {
-            EmployeeWage.EmployeeSalary();
+            //EmployeeWage.EmployeeSalary();
+            //Linecomp1.LenthTwoPoints();
+            //Linecomp2.IsEqual();
+            Linecomp3.compareTo();
             Console.ReadLine(); 
         }
     }
