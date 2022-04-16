@@ -11,7 +11,8 @@ namespace Day3
         static void Main(string[] args)
         {
             //EmployeeWage.EmployeeSalary();
-            Linecomp1.LenthTwoPoints();
+            //Linecomp1.LenthTwoPoints();
+            Linecomp2.IsEqual();
             Console.ReadLine(); 
         }
     }
